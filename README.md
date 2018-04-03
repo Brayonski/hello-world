@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [iantheninja](https://github.com/iantheninja)
+- [Brayonski](https://github.com/Brayonski)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
